@@ -1,6 +1,6 @@
-# PIOPIY Client JS SDK for voice
+# PIOPIY Video JS SDK for voice
 
-PIOPIY client JS SDK allows you to make and receive video calls, where making video calls can be made to  APP to APP,APP to Browser and browser to browser calling.  
+PIOPIY video JS SDK allows you to make and receive video calls, where making video calls can be made to  APP to APP,APP to Browser and browser to browser calling.  
 
 # Get Started
 
