@@ -12,7 +12,6 @@ The PIOPIY SDK object needs to be initialized.
 var piopiy = new PIOPIY( {
         name: 'Display Name',
         debug: false,
-        autoplay: true,
         ringTime: 60
     } );
 ```
