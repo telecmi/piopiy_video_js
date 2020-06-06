@@ -32,7 +32,7 @@ Below is the configuration parameters
 Validate your login ID and password.
 
 ```js
-piopiy.login('YOUR_LOGIN_ID','YOUR_PASSWORD');
+piopiy.login('YOUR_USERNAME','YOUR_PASSWORD');
 ```
 
 #### HTTP status codes
